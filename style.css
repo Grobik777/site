@@ -19,3 +19,11 @@ padding:15px ;
 color: skyblue;
 font-size: 30px;
 }
+
+/adaptive
+@media(min-widht:0px) and (max-widht:320px){
+.div {
+text-align:center ;
+
+					}
+}
