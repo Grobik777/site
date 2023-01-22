@@ -1,0 +1,21 @@
+body {
+margin:0px ;
+
+
+
+}
+.div {
+background-color: greenyellow;
+height: 90px;
+
+
+
+
+}
+
+.li {
+display: inline-block;
+padding:15px ;
+color: skyblue;
+font-size: 30px;
+}
